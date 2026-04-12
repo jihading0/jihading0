@@ -12,4 +12,6 @@ Skills &amp; Tools
 » Frontend:     HTML5, CSS3, JavaScript, .., ..
 » Databases:    ..,..,..
 » DevOps:       Git and Github, ...
+
+Projects  
 </pre>
